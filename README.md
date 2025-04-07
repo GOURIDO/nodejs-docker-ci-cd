@@ -21,9 +21,7 @@ The pipeline triggers automatically on every push to the `main` branch.
 ## DockerHub
 
 Docker images are pushed to:  
-`https://hub.docker.com/repository/docker/gouriob/your-image-name`
-
-> Replace `your-image-name` with the actual image name you're using.
+`https://hub.docker.com/repository/docker/gouriob/my-node-app`
 
 
 
