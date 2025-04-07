@@ -25,11 +25,6 @@ Docker images are pushed to:
 
 > Replace `your-image-name` with the actual image name you're using.
 
-## Secrets Used
 
-- `DOCKER_USERNAME`
-- `DOCKER_PASSWORD`
-
-These are stored securely in GitHub repository secrets.
 
 
